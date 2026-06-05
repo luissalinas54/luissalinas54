@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hola, soy Luis Salinas
 
-<!--
-**luissalinas54/luissalinas54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Mecatrónica
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🎓 Estudiante de Ingeniería Mecatrónica
+- 💻 Aprendiendo React y desarrollo Full Stack
+
+---
+
+## 🛠 Tecnologías
+
+![React](...)
+![JavaScript](...)
+![MATLAB](...)
+![MySQL](...)
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](...)
+
+![Top Languages](...)
+
+
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- React
+- Node.js
+- MySQL
+- Git y GitHub
+
+---
+
+## 📫 Contacto
+
+- LinkedIn : www.linkedin.com/in/luis-salinas-00435a319
+
+- Correo : luchoaldo555@gmail.com
